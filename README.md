@@ -1,9 +1,9 @@
 # Pandas Cookbook, Third Edition<br>
 by William Ayd and Matthew Harrison <br><br>
-<img src="" alt="cover" width="350"/>
+<img src="https://github.com/gaurgv/Pandas-Cookbook-Third-Edition/blob/main/cover.png" alt="cover" width="350"/>
 
 # Pandas Cookbook, Third Edition
-**Build user-friendly apps, troubleshoot challenges, and navigate the evolving Power Apps landscape**
+**Practical recipes for scientific computing, time series, and exploratory data analysis using Python**
 
 This is the code repository for [Pandas Cookbook, Third Edition](https://github.com/WillAyd/Pandas-Cookbook-Third-Edition), published by Packt.
 
@@ -39,6 +39,19 @@ Explore cutting-edge topics such as idiomatic pandas coding, efficient handling 
 10. General Usage/Performance Tips
 11. The pandas Ecosystem
 
+## Getting started 🚀
+The code in this book will make use of the pandas, NumPy, and PyArrow libraries. Jupyter Notebook files are also a popular way to visualize and inspect code. All of these libraries should be installable via `pip` or the package manager of your choice. For `pip` users, you can run:
+```bash
+python -m pip install pandas numpy pyarrow notebook
+```
+### Running a Jupyter notebook 💻
+The suggested method to work through the content of this book is to have a Jupyter notebook up and running so that you can run the code while reading through the recipes.  Following along on your computer allows you to go off exploring on your own and gain a deeper understanding than by just reading the book alone.
+
+After installing Jupyter notebook, open a Command Prompt (type `cmd` at the search bar on Windows, or open Terminal on Mac or Linux) and type:
+```bash
+jupyter notebook
+```
+
 ### Raise an issue 🚩
 If you see anything that doesn't run as expected, raise an issue, and we'll work on it!
 > You can [create an issue](https://github.com/WillAyd/Pandas-Cookbook-Third-Edition/issues) <img alt="Support" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">, if you encounter any in the notebooks, we will be glad to provide you support.
@@ -60,4 +73,4 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Authors
 **William Ayd** is a core maintainer of the pandas project, serving in that role since 2018. For over a decade working as a consultant, Will has helped countless clients get the most value from their data using pandas and the open-source ecosystem surrounding it.
 
-**Matt Harrison** has been using Python since 2000. He runs MetaSnake, which provides corporate training for Python and data science. He is the author of *Machine Learning Pocket Reference*, the bestselling *Illustrated Guide to Python 3*, and *Learning the Pandas Library*, among other books.
+**Matthew Harrison** has been using Python since 2000. He runs MetaSnake, which provides corporate training for Python and data science. He is the author of *Machine Learning Pocket Reference*, the bestselling *Illustrated Guide to Python 3*, and *Learning the Pandas Library*, among other books.
