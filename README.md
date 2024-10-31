@@ -57,7 +57,7 @@ If you see anything that doesn't run as expected, raise an issue, and we'll work
 > You can [create an issue](https://github.com/WillAyd/Pandas-Cookbook-Third-Edition/issues) <img alt="Support" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">, if you encounter any in the notebooks, we will be glad to provide you support.
 
 ### Get my copy 📦
-> If you feel this book is for you, get your [copy](https://www.amazon.com/Pandas-Cookbook/dp/1836205864) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+> If you feel this book is for you, get your [copy](https://www.amazon.com/Pandas-Cookbook-Practical-scientific-exploratory/dp/1836205872) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
 ## Know more on the Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
 
