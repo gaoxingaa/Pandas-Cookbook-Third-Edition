@@ -164,4 +164,4 @@ lib64
 pyvenv.cfg
 
 venv/
-book/data/
+data/
