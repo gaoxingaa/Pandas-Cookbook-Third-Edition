@@ -10,6 +10,7 @@ This is the code repository for [Pandas Cookbook, Third Edition](https://github.
 # About the libraries 📔
 
 ## AKShare
-<img src="https://github.com/akfamily/akshare/raw/main/assets/images/akshare_logo.jpg">
+<img src="https://github.com/akfamily/akshare/raw/main/assets/images/akshare_logo.jpg" />
+
 [AKShare](https://github.com/akfamily/akshare) is an elegant and simple financial data interface library for Python, built for human beings!
 Need Chinese proxy and network.
